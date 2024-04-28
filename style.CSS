@@ -1,6 +1,6 @@
 body {
     /* Set the background image */
-        background-image: url('mad lib.jpg');
+        background-image: src=('mad lib.jpg');
         /* Set background size to cover the whole viewport */
         background-size: cover;
   margin:0;
